@@ -1,0 +1,15 @@
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.csproj.AssemblyReference.cache
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.AssemblyInfoInputs.cache
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.AssemblyInfo.cs
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.csproj.CoreCompileInputs.cache
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\bin\Debug\net7.0\EmpresaApp.exe
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\bin\Debug\net7.0\EmpresaApp.deps.json
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\bin\Debug\net7.0\EmpresaApp.runtimeconfig.json
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\bin\Debug\net7.0\EmpresaApp.dll
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\bin\Debug\net7.0\EmpresaApp.pdb
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.dll
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\refint\EmpresaApp.dll
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.pdb
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\EmpresaApp.genruntimeconfig.cache
+C:\Users\BLANCA\Downloads\9AGARDUNO\EmpresaApp\obj\Debug\net7.0\ref\EmpresaApp.dll
